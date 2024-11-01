@@ -1,0 +1,78 @@
+#MainHeading {
+  background-color: deeppink;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.7rem;
+  color: white;
+  border-radius: 15px;
+  text-align: center;
+  border: 10px solid blue;
+}
+
+#GulabJamunh {
+  background-color: lightcoral;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.5rem;
+  color: white;
+  width: 180px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+#GulabJamunImage {
+  width: 300px;
+}
+#GulabJamunP {
+  background-color: lightsalmon;
+  font-size: 1.2rem;
+}
+
+#Kalakandh {
+  background-color: darkorange;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.5rem;
+  color: white;
+  width: 120px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+#kalakandp {
+  background-color: lightcoral;
+  font-size: 1.2rem;
+}
+
+#Nankhataih {
+  background-color: green;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.5rem;
+  color: white;
+  width: 130px;
+  border-radius: 10px;
+  padding: 5px;
+}
+#Nankhataip {
+  background-color: lightgreen;
+  font-size: 1.2rem;
+}
+
+#Rasmalaih {
+  background-color: fuchsia;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.5rem;
+  color: white;
+  width: 120px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+#Rsamalaip {
+  background-color: lightskyblue;
+  font-size: 1.2rem;
+}
+#backgroundcolor {
+  background-color: lightgoldenrodyellow;
+}
